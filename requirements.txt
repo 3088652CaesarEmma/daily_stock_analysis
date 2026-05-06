@@ -18,7 +18,7 @@ kaleido>=0.2.1
 smtplib2>=0.2.1
 
 # Database support
-sqlite3
+# sqlite3 is part of Python's standard library, no need to install via pip
 
 # Testing
 pytest>=7.2.0
