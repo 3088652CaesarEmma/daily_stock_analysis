@@ -33,3 +33,5 @@ isort>=5.10.0
 # Personal additions
 # jupyter for interactive exploration of stock data locally
 jupyter>=1.0.0
+# ipywidgets for interactive widgets in jupyter notebooks (e.g. date range sliders)
+ipywidgets>=8.0.0
